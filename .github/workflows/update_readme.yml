@@ -8,7 +8,7 @@ on:
     - cron: '30 22 * * *'
   push:
     branches: 
-      - master
+      - main
       - feature/zhihu  
       - feature/yuque  
       - feature/segmentfault  
