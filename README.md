@@ -4,25 +4,25 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[15天前 👍：2  ⭐：1]
+<li align='left'>[16天前 👍：2  ⭐：1]
       <a href="https://juejin.cn/post/7227991391690113085" target="_blank">TypeScript 总结 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[17天前 👍：1  ⭐：0]
+<li align='left'>[18天前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7227578473366913084" target="_blank">JavaScript 闭包 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[17天前 👍：5  ⭐：2]
+<li align='left'>[18天前 👍：5  ⭐：2]
       <a href="https://juejin.cn/post/7227128420358406181" target="_blank">CSS border 生成三角形技术原理 | 青训营笔记</a>
       </li>
-<li align='left'>[17天前 👍：3  ⭐：0]
+<li align='left'>[18天前 👍：3  ⭐：0]
       <a href="https://juejin.cn/post/7227105808458416183" target="_blank">跨端容器简介 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[18天前 👍：2  ⭐：1]
+<li align='left'>[19天前 👍：2  ⭐：1]
       <a href="https://juejin.cn/post/7226745855033360442" target="_blank">浏览器知识总结 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[25天前 👍：1  ⭐：0]
+<li align='left'>[26天前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7224422626944778296" target="_blank">JavaScript 在不同的编程范式下的使用 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[28天前 👍：3  ⭐：1]
+<li align='left'>[29天前 👍：3  ⭐：1]
       <a href="https://juejin.cn/post/7223303364002742309" target="_blank">Shell 脚本和编程 ｜ 青训营笔记</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：1]
