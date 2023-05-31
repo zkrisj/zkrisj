@@ -4,7 +4,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[29天前 👍：2  ⭐：1]
+<li align='left'>[1个月前 👍：2  ⭐：1]
       <a href="https://juejin.cn/post/7227991391690113085" target="_blank">TypeScript 总结 ｜ 青训营笔记</a>
       </li>
 <li align='left'>[1个月前 👍：1  ⭐：0]
