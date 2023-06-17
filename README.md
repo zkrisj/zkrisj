@@ -22,7 +22,7 @@
 <li align='left'>[1个月前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7224422626944778296" target="_blank">JavaScript 在不同的编程范式下的使用 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[1个月前 👍：3  ⭐：1]
+<li align='left'>[2个月前 👍：3  ⭐：1]
       <a href="https://juejin.cn/post/7223303364002742309" target="_blank">Shell 脚本和编程 ｜ 青训营笔记</a>
       </li>
 <li align='left'>[2个月前 👍：4  ⭐：1]
@@ -31,7 +31,7 @@
 <li align='left'>[2个月前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7222159871180488763" target="_blank">计算机网络概论 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[2个月前 👍：12  ⭐：15]
+<li align='left'>[3个月前 👍：12  ⭐：15]
       <a href="https://juejin.cn/post/7212079828479918138" target="_blank">将自然语言查询转换为 SQL 代码的 AI 工具</a>
       </li>
 </ul>
