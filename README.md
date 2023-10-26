@@ -7,13 +7,13 @@
 <li align='left'>[5个月前 👍：4  ⭐：2]
       <a href="https://juejin.cn/post/7227991391690113085" target="_blank">TypeScript 总结 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[5个月前 👍：2  ⭐：0]
+<li align='left'>[6个月前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7227578473366913084" target="_blank">JavaScript 闭包 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[5个月前 👍：8  ⭐：3]
+<li align='left'>[6个月前 👍：8  ⭐：3]
       <a href="https://juejin.cn/post/7227128420358406181" target="_blank">CSS border 生成三角形技术原理 | 青训营笔记</a>
       </li>
-<li align='left'>[5个月前 👍：4  ⭐：0]
+<li align='left'>[6个月前 👍：4  ⭐：0]
       <a href="https://juejin.cn/post/7227105808458416183" target="_blank">跨端容器简介 ｜ 青训营笔记</a>
       </li>
 <li align='left'>[6个月前 👍：3  ⭐：1]
@@ -31,7 +31,7 @@
 <li align='left'>[6个月前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7222159871180488763" target="_blank">计算机网络概论 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[7个月前 👍：14  ⭐：16]
+<li align='left'>[7个月前 👍：14  ⭐：17]
       <a href="https://juejin.cn/post/7212079828479918138" target="_blank">将自然语言查询转换为 SQL 代码的 AI 工具</a>
       </li>
 </ul>
