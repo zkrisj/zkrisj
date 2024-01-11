@@ -25,7 +25,7 @@
 <li align='left'>[8个月前 👍：4  ⭐：1]
       <a href="https://juejin.cn/post/7223303364002742309" target="_blank">Shell 脚本和编程 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[8个月前 👍：5  ⭐：1]
+<li align='left'>[9个月前 👍：5  ⭐：1]
       <a href="https://juejin.cn/post/7222507980445351995" target="_blank">Linux 基础 ｜ 青训营笔记</a>
       </li>
 <li align='left'>[9个月前 👍：2  ⭐：0]
