@@ -19,7 +19,7 @@
 <li align='left'>[9个月前 👍：3  ⭐：1]
       <a href="https://juejin.cn/post/7226745855033360442" target="_blank">浏览器知识总结 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[9个月前 👍：2  ⭐：0]
+<li align='left'>[10个月前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7224422626944778296" target="_blank">JavaScript 在不同的编程范式下的使用 ｜ 青训营笔记</a>
       </li>
 <li align='left'>[10个月前 👍：4  ⭐：1]
