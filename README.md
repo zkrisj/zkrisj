@@ -31,7 +31,7 @@
 <li align='left'>[10个月前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7222159871180488763" target="_blank">计算机网络概论 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[11个月前 👍：15  ⭐：20]
+<li align='left'>[11个月前 👍：15  ⭐：21]
       <a href="https://juejin.cn/post/7212079828479918138" target="_blank">将自然语言查询转换为 SQL 代码的 AI 工具</a>
       </li>
 </ul>
