@@ -19,13 +19,13 @@
 <li align='left'>[11个月前 👍：4  ⭐：1]
       <a href="https://juejin.cn/post/7226745855033360442" target="_blank">浏览器知识总结 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[11个月前 👍：2  ⭐：0]
+<li align='left'>[12个月前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7224422626944778296" target="_blank">JavaScript 在不同的编程范式下的使用 ｜ 青训营笔记</a>
       </li>
 <li align='left'>[12个月前 👍：4  ⭐：1]
       <a href="https://juejin.cn/post/7223303364002742309" target="_blank">Shell 脚本和编程 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[12个月前 👍：5  ⭐：1]
+<li align='left'>[1年前 👍：5  ⭐：1]
       <a href="https://juejin.cn/post/7222507980445351995" target="_blank">Linux 基础 ｜ 青训营笔记</a>
       </li>
 <li align='left'>[1年前 👍：2  ⭐：1]
