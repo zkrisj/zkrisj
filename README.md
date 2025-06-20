@@ -10,7 +10,7 @@
 <li align='left'>[2年前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7227578473366913084" target="_blank">JavaScript 闭包 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[2年前 👍：8  ⭐：8]
+<li align='left'>[2年前 👍：9  ⭐：8]
       <a href="https://juejin.cn/post/7227128420358406181" target="_blank">CSS border 生成三角形技术原理 | 青训营笔记</a>
       </li>
 <li align='left'>[2年前 👍：4  ⭐：1]
