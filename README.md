@@ -7,10 +7,10 @@
 <li align='left'>[2年前 👍：4  ⭐：3]
       <a href="https://juejin.cn/post/7227991391690113085" target="_blank">TypeScript 总结 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[2年前 👍：2  ⭐：0]
+<li align='left'>[3年前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7227578473366913084" target="_blank">JavaScript 闭包 ｜ 青训营笔记</a>
       </li>
-<li align='left'>[2年前 👍：10  ⭐：7]
+<li align='left'>[3年前 👍：10  ⭐：7]
       <a href="https://juejin.cn/post/7227128420358406181" target="_blank">CSS border 生成三角形技术原理 | 青训营笔记</a>
       </li>
 <li align='left'>[3年前 👍：4  ⭐：1]
